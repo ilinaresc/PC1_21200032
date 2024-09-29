@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC1_21200032</string>
+    <string name="valetemail">Enter email</string>
+    <string name="valetpassword">Enter password</string>
+    <string name="valbtlogin">Login</string>
+    <string name="valetpassword1">Enter password\n</string>
+</resources>
